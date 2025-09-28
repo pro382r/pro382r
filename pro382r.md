@@ -34,3 +34,6 @@
 <img src="https://raw.githubusercontent.com/pro382r/pro382r/output/snake.svg" alt="Snake animation" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pro382r&theme=github" />
+
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge" alt="visitors"></p>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
