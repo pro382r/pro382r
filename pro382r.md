@@ -41,7 +41,4 @@
   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=rih128)
 
   </div>
-
-
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge" alt="visitors"></p>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
