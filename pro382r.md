@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is MD. REAHOON ZANNAH and I'm a Student from Mymensingh, Dhaka, Bangladesh</h2>
+<h2 align="left">Hi 👋! My name is MD. REAHOON ZANNAH and I'm from Mymensingh, Dhaka, Bangladesh</h2>
 
 ###
 
