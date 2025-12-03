@@ -2,12 +2,8 @@
 
 ###
 
-<div align="center">
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=pro382r&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" 
-  alt="GitHub Stats" 
-  style="height: 150px;" 
-/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=pro382r&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pro382r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -36,8 +32,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/pro382r/pro382r/output/snake.svg" alt="Snake animation" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pro382r&theme=github" />
 
