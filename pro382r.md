@@ -2,7 +2,11 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pro382r&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pro382r&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pro382r&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pro382r&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 
   
