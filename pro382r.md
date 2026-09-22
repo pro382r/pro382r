@@ -2,16 +2,9 @@
 
 ###
 
-GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pro382r&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pro382r&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pro382r&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pro382r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -46,3 +39,8 @@ GitHub Stats:
 
   </div>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pro382r&label=Profile%20views&style=flat&color=blue" />
+  </p>
+
